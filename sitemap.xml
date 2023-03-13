@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://chizurus.com/categories/index.html</loc>
+    
+    <lastmod>2023-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chizurus.com/tags/index.html</loc>
+    
+    <lastmod>2023-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chizurus.com/about/index.html</loc>
+    
+    <lastmod>2023-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chizurus.com/resources/index.html</loc>
+    
+    <lastmod>2023-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://chizurus.com/archive/index.html</loc>
     
     <lastmod>2023-03-09</lastmod>
@@ -11,43 +47,7 @@
   </url>
   
   <url>
-    <loc>http://chizurus.com/resources/index.html</loc>
-    
-    <lastmod>2023-03-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chizurus.com/about/index.html</loc>
-    
-    <lastmod>2023-03-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chizurus.com/tags/index.html</loc>
-    
-    <lastmod>2023-03-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chizurus.com/categories/index.html</loc>
-    
-    <lastmod>2023-03-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://chizurus.com/2023/03/07/hello-world/</loc>
+    <loc>http://chizurus.com/2023/03/07/51/</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -58,7 +58,7 @@
 
   <url>
     <loc>http://chizurus.com/</loc>
-    <lastmod>2023-03-10</lastmod>
+    <lastmod>2023-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
